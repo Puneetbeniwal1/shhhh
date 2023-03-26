@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Enter Page</title>
+  </head>
+  <body style="background-color: black;">
+    <button style="background-color: red; color: white;" onclick="window.location.href = 'https://youtu.be/dQw4w9WgXcQ';">ENTER</button>
+  </body>
+</html>
